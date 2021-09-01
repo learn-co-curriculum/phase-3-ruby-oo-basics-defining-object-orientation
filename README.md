@@ -1,8 +1,9 @@
 # Defining Object Orientation
 
-## Overview
+## Learning Goals
 
-We'll introduce the concept of Object-Oriented Programming (OOP)
+- Define Object Oriented Programming
+- Explain the benefits of Object Oriented Programming
 
 ## Object-Oriented Programming (OOP)
 
